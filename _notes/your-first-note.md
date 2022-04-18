@@ -6,10 +6,6 @@ title: Your first seed
 
 Dette er min første note,  og den finder du i [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
-1.  Jeg er fornylig blevet ansat som timelærer på en sprogskole, hvor jeg underviser i dansk som andet sprog. Derfor er jeg meget optaget af pædagogik i et klasseværelse [[Lingvistisk univers/Pædagogiske ideer]] og selve personligheden som lærer. [[ Lærergerning ]]
-2.  I mit arbejde med at undervise i grammatik har jeg gjort overvejelser om man i højere grad kan benytte sig af diagrammer og farver til at redegøre for mønstrene. [[ Visuel teknik ]]
-3.  Selvfølgelig fylder min kommende eksamen også en del. Derfor benytter jeg mig blandt andet af dette medie til at kommunikere med min lærer og mine studiekammerater. [[ Eksamen - andetsprogstilegnelse ]]
-
 ### Link syntax
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
