@@ -25,7 +25,11 @@ Information processing vs Generativistiske tilgange - Værd at lægge mærke til
 
 De sociokulturelle tilgange
 1. Har sit afsæt i Vygotskys arbejder og er videreudviklet af psykologer som Jerome Bruner, og er senere kommet ind i sprogtilegnelse via Lantolf og Donato 
-2. 
+
+[[Lantolf (2011)]]
+[[Donato 1994]]
+
+3. 
 
 **Metode** 
 En beskrivelse af deltagerne. Antal. Aldersspredning. Deres uddannelsesmæssige baggrund og hvor mange lektioner de havde modtaget.
