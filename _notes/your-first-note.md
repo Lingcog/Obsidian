@@ -4,7 +4,11 @@ title: Your first seed
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+Dette er min første note,  og den finder du i [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
+
+1.  Jeg er fornylig blevet ansat som timelærer på en sprogskole, hvor jeg underviser i dansk som andet sprog. Derfor er jeg meget optaget af pædagogik i et klasseværelse [[Lingvistisk univers/Pædagogiske ideer]] og selve personligheden som lærer. [[ Lærergerning ]]
+2.  I mit arbejde med at undervise i grammatik har jeg gjort overvejelser om man i højere grad kan benytte sig af diagrammer og farver til at redegøre for mønstrene. [[ Visuel teknik ]]
+3.  Selvfølgelig fylder min kommende eksamen også en del. Derfor benytter jeg mig blandt andet af dette medie til at kommunikere med min lærer og mine studiekammerater. [[ Eksamen - andetsprogstilegnelse ]]
 
 ### Link syntax
 
