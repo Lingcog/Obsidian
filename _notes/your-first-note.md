@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: You
 ---
 
 Her kommer der senere en oversigt over hovedemnerne:
