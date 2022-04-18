@@ -1,4 +1,7 @@
 #### Attraktiv lærerpersonlighed ifølge [[Freeman (2009)]]
+
+[[Lingvistisk univers/Syv definitioner på læring]]
+
 1. **Lærerig, men underholdende læringsmiljø
 Sjov**
 Engagerende 
