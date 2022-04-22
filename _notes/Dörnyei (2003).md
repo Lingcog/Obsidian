@@ -56,3 +56,6 @@ Hvis vi tror, at vi fejlede en opgave pga manglende evne, så er der ikke så st
 Introducerede konceptet goal salience: the specificity of the learner’s goals and the frequency of goal-setting strategies used. 
 
 Shumann udvidede konceptet vha. neuroscience og stimulus appraisal, som handler om 5 dimensioner, såsom “Er det nyt?” “Er der rart?”, “Er det vigtigt for mig?”, “Kan jeg klare det?” og “Styrker det mit sociale image?”
+
+
+

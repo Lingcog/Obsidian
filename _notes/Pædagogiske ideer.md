@@ -14,3 +14,9 @@ Lad kursisterne skrive sætninger, og lade dem rette hinandens.
 
 	### Nøglefærdigheder
 	1. Spændende (Læreren er helt optaget af sit emne - og begejstring smitter)
+	2. Gør det relevant 
+	3. Skab er positivt læringsrum - undgå negativitet og nedladenhed 
+	4. Vær stimulerende - hvor er du god til sprog / børn
+	5. Udfordrende - sæt høje læringsmål 
+	6. Originalitet - nytænkning, nye undervisningsmetoder 
+	7. Underholdende - humoristisk, ler af sig selv - og sammen med andre 

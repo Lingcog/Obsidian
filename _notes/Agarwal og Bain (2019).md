@@ -1,11 +1,15 @@
 Pooja K. Agarwal og Patricia M. Bain (2019), *Powerfull teaching - Unleash the Science of Teaching,* Jossey-Bass, 
 
+[[Pædagogik]]
+
+
+
 **Læring** 
 1. Kode (første gang man lærer noget)
 2. Lagring
 3. Genkaldelse 
 
-**Retrieving ([[genkaldelse]])**
+#### **Retrieving ([[genkaldelse]])**
 Det man får ud af hovedet, sætter sig fast
 Metoder: 
 
@@ -40,12 +44,18 @@ Læsning
 3. Genkaldelse af hovedpunkt 
 4. Læse 
 
-**Vigtigt at huske** 
-Multiple spørgsnål skal være lidt svære at skille ad (interleaving) Ikke let at udelukke
+**Genkaldelses - studieguider**
 
-Før lektion (korttidshukommelse)
-Efter lektion (langtidshukommelsen)
+### **Spacing**
+Der skal gå noget tid, hvor man får tid til at glemme. Det indlærte skal simre
 
-I stedet for at stille et spørgsmål til en elev, bed alle om at skrive svaret ned på et stykke papir. Så 
+Hvad er det indele - 1:10
+Hvis man skal huske noget i 200 dage - 20 dage 
+
+**tips** - sørg for at lektier også repeterer sidsre uges pensum 
+
+
+### Interleaving 
+Bland emnerne, og sidestil især emner der indeholder samme elementer.
 
 

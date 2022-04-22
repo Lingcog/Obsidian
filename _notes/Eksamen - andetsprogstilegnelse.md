@@ -5,7 +5,7 @@ Undersøgelsesspørgsmål
 
 **Baggrund for spørgsmålene (relevante)**
 
-Hvis arbejdshukommelsen er en begrænset faktor ved processering af sprog, så må den også være en begrænsende faktor ved indlæring af sprog. 
+Hvis arbejdshukommelsen er en begrænsende faktor ved processering af sprog, så må den også være en begrænsende faktor ved indlæring af sprog. 
 
 Processeing af sprog (taleøjeblikket). Hvilke processer indgår der? Hvordan er arbejdshukommelsen indvolveret? Kan processeringen af morfosyntaktiske elementer give indblik i om det at skulle holde styr på flere elementer (adjektivsyntagmer) er begrænset af arbejdshukommelsen? Er afstanden mellem elementerne afgørende? 
 
@@ -17,6 +17,9 @@ Processeing af sprog (taleøjeblikket). Hvilke processer indgår der? Hvordan er
 
 **Teoretiske grundlag** 
 
+Ordforrådsbegrænsning en faktor
+[[Ordforråd]]
+[[Hukommelsesbegrænsning]]
 
 
 Information processing vs Generativistiske tilgange - Værd at lægge mærke til at det kognitive perspektiv (information processing) og det generativistiske syn begge hviler på et påstået biologisk grundlag. Information processing oprererer med deklarative og procedurale hukommelsesystemmer, mens genreativismen forudsætter eksistensen af et fysisk sprogtilegnelsesapperat. 

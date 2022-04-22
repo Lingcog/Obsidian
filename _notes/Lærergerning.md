@@ -1,4 +1,5 @@
-#### Attraktiv lærerpersonlighed ifølge [[Freeman (2009)]]
+#### Attraktiv lærerpersonlighed
+[[Freeman & William (2009)]]
 
 [[Lingvistisk univers/Syv definitioner på læring]]
 
@@ -32,6 +33,8 @@ Ligevægtige
 Rimelige 
 Medfølende
 
+[[Freeman & William (2009)]]
+
 
 ### **Hvordan man opnår succces?** 
 Tag et kig på dem der konkurrer om elevernes fritid (sportsklubber, musikskoler)
@@ -43,6 +46,13 @@ Tag et kig på dem der konkurrer om elevernes fritid (sportsklubber, musikskoler
 6. Risikovillig (tør prøve nyt)
 7. Være den bedste, men ikke på bekostning af andre 
 
+[[Freeman & William (2009)]]
 
 Vi underviser den vi er - uden selverkendelse kan vi ikke forstå andre eller det emne vi underviser i  [[Palmer (2009)]]
 
+### Undervisning
+Spørg dig selv:
+1. Hvad laver jeg?
+2. Hvorfor laver jeg det?
+3. Hvornår vil jeg være færdig med det?
+4. Hvordan ved jeg at jeg har nået mit mål?

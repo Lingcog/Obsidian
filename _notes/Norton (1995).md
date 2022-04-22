@@ -12,7 +12,7 @@ Overordnet: Handler om hvordan indlæringen foregår både med motivation fra l�
 
   
 
-Investment and Social Identity (s. 64)
+#### Investment and Social Identity (s. 64)
 
 Heri forklarer hun at alle medvirkende i undersøgelsen var motiverede og følte sig tilpasse med at snakke engelsk. Men faktorer så som ,kommentarer om deres accent og andet, kunne få dem til at være tilbageholdende med at tale engelsk. Men at grundende hertil var forskellige for de medvirkende. 
 
@@ -20,7 +20,7 @@ Pointen er, at man skal undersøge hvad lørneren investerer i at lære sproget 
 
   
 
-Opfølgning på Investment (Fra s. 65)
+#### Opfølgning på Investment (Fra s. 65)
 
 Hun benytter sig af to personer for at illustrer hvad deres investment er i at lære sproget. Den ene Martina, gør det fordi hun på en måde er primær forsøger. Hun skal kunne tage sig af forskellige funktioner for at holde familien kørende der kræves et vist niveau af engelsk. Dermed at det en praktisk nødvendighed at tilegne sig sproget. Det er altså hendes investment.
 
@@ -32,6 +32,8 @@ Sammenfattende: Altså er den helt store barierrer for dem når de skal lære sp
 
   
 
-Konklusion/Objectives (s. 72-73)
+#### **Konklusion/Objectives** (s. 72-73)
 
 Hun opstiller nogle positioner for hvordan man kan indrage lørnerens sociale identitet i undervisningen. Herunder dagbøger og refleksioner over dialoger med modermålstalende.
+
+

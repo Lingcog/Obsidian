@@ -65,3 +65,7 @@ Ushioda er værd at bemærke. Hun har peget på 8 faktorer der kan have indflyde
 #### Nuværende forskning 
 Dewaele mener nogle af Pavelnko's (2002) invendinger ikke er berettiget, og den fremtidige forskning bør være en kombination af etiske og emiske perspektiver, og at forskere både skal beherske kvantitative og kvalitative metoder. 
 
+
+
+
+

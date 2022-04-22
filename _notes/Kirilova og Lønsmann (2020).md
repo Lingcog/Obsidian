@@ -50,3 +50,7 @@ Dansk er forudsætningen for et godt og aktivt liv. Dansk er nøglen til arbejds
 Flygtninge vil gerne hurtigt finde arbejde, men de steder hvor der er størst chance for det, må de ikke være i praktik. Og de steder kommunerne sender dem ud er der nogle gange ingen muligheder for ar tale dansk (Dansk Supermarked), stille varer på hylden.
 Sprogideologien spænder ben for flygtninge.
 
+
+
+
+
