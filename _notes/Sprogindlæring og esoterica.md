@@ -21,11 +21,8 @@ Den moderne pædagogiks fader, [[Vygotsky]], har sammenlignet en handling, med e
 Både det **intellektuelle** og det **affektive** spiller en stor rolle for struktureringer af indlæring = intellektuelle = tanker (luft)
 affektive = følelser (vand)
 [[Leir (1996)]]
-[[Swain (2012)]]
-
 
 **Om at være i øjeblikket** 
-
 Undgå at bruge tid på at oversætte i hovedet når du lærer et fremmedsprog og deltager i en samtale - spring det trin over og lade de fremmedeord komme til dig og forsøg at reagere som forventet. For at gå frem og tilbage mellem L1 og L2 bevirkede at jeg forblev i hovedet. Forestille sig at man streamer samtalen. 
 [[Quesada (2013)]]
 

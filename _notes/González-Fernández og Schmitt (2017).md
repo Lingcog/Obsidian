@@ -1,7 +1,5 @@
 González-Fernández B.og Schmitt N. (2017), Vocabulary acquisition, *The routledge handbook of instructed second language acquisition*, Rouledge.
 
-[[Ordforråd]]
-
 
 **Nyeste forskning** peger på at ord på L2 ikke tilegnes på samme måde som L1. De ordforbindelser som indgår i L1, overføres ikke automatisk til L2. Forbindelserne er afhængige af sammenhængen som ordet indlæres i.
 
