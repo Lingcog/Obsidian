@@ -13,7 +13,7 @@ Pooja K. Agarwal og Patricia M. Bain (2019), *Powerfull teaching - Unleash the S
 Det man får ud af hovedet, sætter sig fast
 Metoder: 
 
-Kan sammenlignes med at klægge æg og hælde mel i en kagedej (styrker indlæring) mens "formative assesment" er som at stilke en tandstik i dejen mens den bager (udvikling over tid) og "summative assesment" (slutproduktet), kagen står på bordet. :)
+Kan sammenlignes med at klægge æg og hælde mel i en kagedej (styrker indlæring) mens "[[formative assesment]]" er som at stilke en tandstik i dejen mens den bager (udvikling over tid) og "summative assesment" (slutproduktet), kagen står på bordet. :)
 
 Medvirker til transfer - overførsel af læring på et felt til læring på et andet
 
