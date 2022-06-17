@@ -36,5 +36,7 @@ Interesant undersøgelse med fransklørnere, som fik en tekst, som blev kombiner
 
 Vygotski vs. Piaget 
 
+Begrebs baseret instruktion (CBI)
+I tråd med Piotr Galperins program kaldet "Systemic Theoretical Instruction". Lantolf mener at kognitiv lingvistik kan bidrage med meget i form af forklaringsmodeller eftersom den søger at udvikle teoretiske begreber der kan generaliseres på tværs af sprogdomæner, og der er en hævdvunden tradition for at bruge visuelle modeller 
 
 

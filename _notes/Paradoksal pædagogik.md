@@ -1,27 +1,4 @@
-Lad kursisterne skrive sætninger, og lade dem rette hinandens.
-
-
-### Gode kommunikationsevner 
-1. Udvikl en god præsentationsform
-     1. Forståelighed (At blive forstået)
-     2. Varieret stemmeføring - ikke monoton
-     3. Ingen distraktioner - pas på gentagne gange at sige "ok"
-     4. Vide hvad der sker i tilhørernes verden - folk vil høre om dem selv
-     5. Bruge masser af analogier fra deres verden - billeder 
-     6. Introducere nye emner pædagogisk - flere gange i forskellige forklædninger 
-     7. Naturlighed
-
-
-	### Nøglefærdigheder
-	1. Spændende (Læreren er helt optaget af sit emne - og begejstring smitter)
-	2. Gør det relevant 
-	3. Skab et positivt læringsrum - undgå negativitet og nedladenhed 
-	4. Vær stimulerende - hvor er du god til sprog / børn
-	5. Udfordrende - sæt høje læringsmål 
-	6. Originalitet - nytænkning, nye undervisningsmetoder 
-	7. Underholdende - humoristisk, ler af sig selv - og sammen med andre 
-
-**Paradoksal pædagogik** (det der kan tænde kreativitetens flamme)
+ (det der kan tænde kreativitetens flamme)
 1. *Rummet skal være åbent og lukket*
         Diskussion rettet mod emnet (lukket. Åbent for muligheder i diskussion og dialog.
 2.  *Rummet være gæstfrit og ladet med energi*
@@ -38,7 +15,21 @@ Lad kursisterne skrive sætninger, og lade dem rette hinandens.
 **Praktisk** **anvendelse**
 
 1. []Finde tekster der er åbne og dog afgrænser et emne - åben dialog - tvetydigheder er velkomne 
-2. Medtager og antager at kursisternes historier er værdifulde (at være gæstfri) 
+2. Medtager og antager at kursisternes historier er værdifulde (at være gæstfri) og samtidig udfordre kursisterne
+3. Stilhed - Think, pair og share. Og i samtaler være torvholder og den der samler trådene i diskussionen. På den måde få den kollektive bevidsthed frem. Hjælpe den enkelte til at give udtryk for mening, også hvis man er uenig, og samtidig tage den kollektive bevidsted i betragtning.
+4. Kursister vil forsøge at gemme sig i de små historier, men som lærer skal man bruge store fortællinger til at indramme de små.
+5. Ensomhed - en lærer skal respektere den enkeltes ret til ensomhed i gruppen - det skal være frit om man vil deltage i drøftelsen 
+6. Panik kan gribe den bedste og man får lyst til at give Samtale-hjælp (PCR)
 
 
+**Hvordan man rummer paradoksernes spænding?** 
+Tanken om at have øje for paradokserne kan fremkalde angst - og smerte - men af den angst fødes noget større 
 
+Spændingen vil åbne mit hjerte til noget der ef større end os selv 
+
+E Shumacher
+Small is beautifull
+At amalgere frihed og disciplin i kærlighed. 
+
+Om at rumme modsætninger er trancendere over dem - det er kærlighed - evnen til at rumme modsætninger kommer af at stile efter de højeste egenskaber (vibrationer) kærlighed, godhed, tro og retfærdighed. 
+****

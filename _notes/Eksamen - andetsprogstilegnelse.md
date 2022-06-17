@@ -21,6 +21,8 @@ Kan sekvensrlkkefølgen forklares med kapacitet i hukommelsen? Man opdyrker stæ
 
 **Teoretiske grundlag** 
 
+Det kognitive aspekt
+
 Ordforrådsbegrænsning en faktor
 [[Ordforråd]]
 [[Hukommelsesbegrænsning]]
@@ -40,7 +42,11 @@ Behavorismen - sprog læres gennem input og gentagelse
 
 **Indvirkning på andetsprogstilegnelse** = Fokus på ideelle sætninger (ikke dagligt sprog) Fokus på udtryk. Det hjælper ikke at rette på elever. Modersmålet lades ude af betragtning, altså ikke antagelse af intersprog. 
 
-Sekvens af rækkefølge udsprunget af generativismen - det er strukturen der bevirker rækkefølgen i indlæringen. Roger Brown (først engelsk, derefter ser man andre sprog)
+Sekvens af rækkefølge udsprunget af generativismen - det er strukturen der bevirker rækkefølgen i indlæringen. Roger Brown (først engelsk, derefter ser man andre sprog.
+
+**Morfosyntaktiske elementer**
+
+Nu handler [[Johansen 2008]] ikke om morfosyntaktiske elementer, men om variation i inversion. Men hvis hypotesen om kapacitetsbehrænsning gør sig gældende ved produktion af inversion, så gør den sig også gældende ved produktion af morfosyntaktiske elementer som adjektivers kongruens. 
 
 **Funktionalismen** 
 Sekvensteorien - set med Karen Lunds øjne 
@@ -76,25 +82,29 @@ De sociokulturelle tilgange
 [[Lantolf (2011)]]
 [[Donato 1994]]
 
-3. 
-
-**Metode** 
-En beskrivelse af deltagerne. Antal. Aldersspredning. Deres uddannelsesmæssige baggrund og hvor mange lektioner de havde modtaget.
-
-Forsøgsopstillingen 
-1. Hukommelsestestene (3)
-2. Optagelse af samtale 
-3. Skriftlig opgave 
 
 
-Optagelse af samtalen 
-Eftersom indlærerne ikke kunne forventes at holde samtalen kørende udelukkende på dansk grundet deres lille ordforråd, fik de lov til at bruge engelsk som løftestang, Den fremgangsmetode blev også benyttet i Berhan et all (xxx), som i deres undersøgelse var interesseret i at se en effekt af brug af L1 til løsning af sproglige opgaver. En klar effekt af L1 så man blandt i søgning efter de rigtige leksemer.
+Det var Jerome Brunner, faderen til den sociokulturelle teori, der dannede udtrykket scafolding, eller stiladsering. Han tog udgangspunkt i børns læring og den proces de gennemgår. Forældre skal give den støtte som passer til det behov barnet har. Efterhånden som barnet får viden og bliver mere uafhængigt, kan stiladset, eller støtten  
+langsomt fjernes. Udtrykket fandt vej ind i andetsprogsundervisning gennem Donato (1994). Han overførte begrebet på den interaktion som indlærere indgår i med hinanden ved forhandling om betydning. Kirk (2006) retter kritik mod denne brug af udtrykket. Selvom hun anerkender at fænomenet gør sig gældende i ovennævte interaktioer, stiller hun sig 
+
+Donato (1994, s. 40) operationalisere stiladsopbygning sådan her - Det er en situation hvor en vicende deltager i en social interaktion skaber med sit output nogle støttende omstændigheder som en novice kan deltage i og udvide sine nuværende evner og kundskab til et højere kompetanceniveau 
 
 
-**De engelske tekster** 
-Er ikke hentet fra brugsprog, formet til lejligheden for at indeholde elementer som gør det muligt at måle På [[Johansen 2008]] og [[Glahn 2002]] paradigmer 
-1. Kapacitetsbehrænsnings hypotese
-2. Struktur og sekvens, rækkefølge 
+[[Kirk (2006)]]
+
+En væsentlig del af den kollaborative interaktion er output eller sprogprodukton. For at der kan finde en synergieffekt sted skal indlærerne komme output. Ifølge [[Swain (2012)]] [[Swain 1996]] er der tre fordele ved output. For det første bliver indlærere opmærksomme på huller i sin viden om sproget. Deres sproglige opmærksomhed bliver altså skærpet. Fokus bliver flyttet fra de indholdsbærende ord i forståelsesfasen til morfologi og syntaks i produktionsfasen. En anden fordel er at man som indlærer tester hypoteser om hvordan måldproget fungerer. Ved feedback har man set effekt eller (klarifikation, anmodning om bekræftelse ), førte det til modifikation i en tredjedel af tilfældene. Hypoteseteorien anfører at output er den lyskegle som rettes mod det sproglige. Det er det som opmærksomheden rettes mod. Og det er ikke konsekvent hvad der laves hypoteser om. Denne variation leder tankerne hen på intersprog og dets dynamiske element. (Corder 1973) Swain (1985) siger at output kan betragtes som "the leading edge of a learners interlanguage". For det tredje baner output ofte vej for metalingvistisk reflektioner. Især ved kollaborativ interaktion opstår der samtaler om grammatiske fænomener. altså metalingvistiske diskussioner. 
+
+
+
+**Konklusion** 
+Skriftlige opgave - den med mindre arbrhdshukommrlse - begrænset output
+
+Skemaer over målsprogsnært produktion 
+Plus / minus 
+
+
+
+
 
 
 Behandling af data 
