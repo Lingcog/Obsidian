@@ -1,4 +1,5 @@
 [[Kognitiv lingvistik]]
+[[SCOBA]]
 
 [[Visuel teknik]]
 
