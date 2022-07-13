@@ -11,8 +11,9 @@ Det her er min digitale have, hvor du kan følge mine ideer i deres udvikling fr
 ### Fokuspunkter
 
 1.  Jeg er fornylig blevet ansat som timelærer på en sprogskole, hvor jeg underviser i dansk som andet sprog. Derfor er jeg meget optaget af pædagogik i et klasseværelse [[Pædagogiske ideer]] og selve personligheden som lærer. [[Lærergerning]]
-2.  I mit arbejde med at undervise i grammatik har jeg gjort mig overvejelser om man i højere grad kan benytte sig af diagrammer og farver til at redegøre for mønstrene. [[ Visuel teknik ]]
-3.  Selvfølgelig fylder min kommende eksamen også en del. Derfor benytter jeg mig blandt andet af dette medie til at kommunikere med min lærer og mine studiekammerater. [[Eksamen - andetsprogstilegnelse]]
+2.  I mit arbejde med at undervise i grammatik har jeg gjort mig overvejelser om man i højere grad kan benytte sig af diagrammer og farver til at redegøre for mønstrene. [[SCOBA]]
+3. I forbindelse med min [[Eksamen - andetsprogstilegnelse]] i juni i år (2022), hvor jeg fik et 12-tal, har jeg arbejdet med tanker af Lev [[Vygotsky]] Nu har hans elev Piotr Galperin fanget min opmærksomhed. Det er især hans tanker om [[Systemic Theoretical Instruction]] som fascinerer mig. De kommer helt sikkert til at danne grundlaget for mit [[bachelor-projekt]] til foråret.
+
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 Tryk på dette link <span style="font-weight: bold">[[Vidensgraf]]</span> og gå på opdagelse i min digitale have.
