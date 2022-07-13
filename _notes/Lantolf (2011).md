@@ -9,7 +9,7 @@ Symbolernes styrke beror ikke på deres struktur, men på hvad de udvirker (acti
 
 Den moderne pædagogiks fader, [[Vygotsky]], har sammenlignet en handling, med en arkitekt der først søger at opbygge en model af den bygning han ønsker at opføre, inden han går i gang med selve byggeriet. Modellerne udgør grundlaget for byggeriet. På samme måde udspringer al intentionsbåret adfærd, hvad enten det er mentalt eller fysisk, fra overgangen fra det symbolske plan til det konkrete objektive plan.
 
-Tale = symboler på det idéplanet bliver realiseret til vibrationer (lyd), fysisk plan 
+Tale = symboler på idéplanet bliver realiseret til vibrationer (lyd), fysisk plan 
 
 Den sociokulturelle teori er interesseret i at det internalisere symbolske elementer?
 
@@ -27,16 +27,16 @@ Ifølge denne teori er menneskets adfærd bestemt af dets mål og de fysiske omg
 **Zone of proximal development** 
 Elsempel med mor der lærer sit barn at sidde op. Hun bruger hånden og musklernes modstand til at lære barnet at bruge sine egne muskler. Hun hjælper lidt af vejen. Det gav ingen mening hvis barnet ikke havde nogen muskler.
 
-Man har også inden sprogindlæring set eksempler ZPD, nogle kursister har brug for meget hjælp, andre er mere selvstændige.
+Man har også inden sprogindlæring set eksempler p ZPD, nogle kursister har brug for meget hjælp, andre er mere selvstændige.
 
 Lantolf har argumenteret for at ZPD og Krashens i + 1 ikke er identiske. Krashen forudsætter at der en indre læreplan som er fælles for alle og som udbygges ved forståeligt input, mens ZPD siger at indlæring er forskelligt fra elev til elev og beror på den meditation som forhandles med andre?
 
 **Dynamic Assessment**.?
 Interesant undersøgelse med fransklørnere, som fik en tekst, som blev kombineret med to tekster af højere sværhedsgrad. De forstod overraskende meget (antallet af genkaldte propositioner) - dog ikke en radioreklame.
 
-Vygotski vs. Piaget 
+[[Vygotski]] vs. Piaget 
 
 Begrebs baseret instruktion (CBI)
-I tråd med Piotr Galperins program kaldet "Systemic Theoretical Instruction". Lantolf mener at kognitiv lingvistik kan bidrage med meget i form af forklaringsmodeller eftersom den søger at udvikle teoretiske begreber der kan generaliseres på tværs af sprogdomæner, og der er en hævdvunden tradition for at bruge visuelle modeller 
+I tråd med Piotr Galperins program kaldet "[[Systemic Theoretical Instruction]]". Lantolf mener at kognitiv lingvistik kan bidrage med meget i form af forklaringsmodeller eftersom den søger at udvikle teoretiske begreber der kan generaliseres på tværs af sprogdomæner, og der er en hævdvunden tradition for at bruge visuelle modeller 
 
 
