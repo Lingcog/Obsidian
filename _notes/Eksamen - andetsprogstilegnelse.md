@@ -1,2 +1,9 @@
-
-[[![[SynopsisA.pdf]]]]
+[Imgur](https://i.imgur.com/Rj0ufoH.jpg)
+[Imgur](https://i.imgur.com/fvQRrJW.jpg)
+[Imgur](https://i.imgur.com/5QJtTD2.jpg)
+[Imgur](https://i.imgur.com/lpBe5bj.jpg)
+[Imgur](https://i.imgur.com/0tboasG.jpg)
+[Imgur](https://i.imgur.com/fzWzf6A.jpg)
+[Imgur](https://i.imgur.com/o3v0t6e.jpg)
+[Imgur](https://i.imgur.com/VoDAsvA.jpg)
+[Imgur](https://i.imgur.com/BPTIJM8.jpg)
