@@ -55,7 +55,7 @@ Hvis man skal huske noget i 200 dage - 20 dage
 **tips** - sørg for at lektier også repeterer sidsre uges pensum 
 
 
-### Interleaving 
+### [[Interleaving]] 
 Bland emnerne, og sidestil især emner der indeholder samme elementer.
 
 
