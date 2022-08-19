@@ -56,3 +56,7 @@ Spørg dig selv:
 2. Hvorfor laver jeg det?
 3. Hvornår vil jeg være færdig med det?
 4. Hvordan ved jeg at jeg har nået mit mål?
+
+   Feedback 
+   1. Skab en atmosfære af tillid - ok at lave fejl  - Michael Jordan - https://youtu.be/JA7G7AV-LT8
+

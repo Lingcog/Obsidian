@@ -21,6 +21,11 @@ Især Swain bliver kritiseret for hendes undersøgelser. De er ifølge Wei Lai b
 3. Hvilken indflydelse har L1 på indlæringen af det kinesisk tempussystem?
 
 
+**Metode**
+3 klasser blev udvalgt, en kontrolgruppe. Forsøget løb over 7 uger 
+
+
+
 
 
 
