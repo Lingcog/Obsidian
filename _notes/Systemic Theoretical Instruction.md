@@ -1,3 +1,5 @@
+[[Bachelor-2023]]
+
 **Baggrund**
 
 Grundteorien er lagt af [[Vygotsky]] og videreført af [[Gal’perin]] i hans teoretiske arbejde Systemic Theoretical Instruction (STI) også kaldet Concept-Based Instruction (CBI).
@@ -21,3 +23,4 @@ Vigtige ingredienser
 2. [[Zone for nærmeste udvikling]]
 3. [[Languaging]] (Swains udtryk) Selvtale
 4. [[forhandling om mening]]
+5. Selvregulation 

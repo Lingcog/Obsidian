@@ -14,7 +14,7 @@ Den alkymistiske proces kan være et sindbillede på den udvikling en lærer gen
     Frigørelse fra selvtvivl - inspireret til at drage ud på en rejse 
 
 2. Disolutio
-     Frigørelse fra negative tankemønstre. Man opbygger en relation til sit underbevidste sind. Korrekt tankegang smelter sammen med den rigtige intuition. Vi identificerer det vi gerne vil slutte fred med i sindet. 
+     Frigørelse fra negative tankemønstre. Man opbygger en relation til sit underbevidste sind. Korrekt tankegang smelter sammen med den rigtige intuition. Vi identificerer det vi gerne vil slutte fred med i sindet.
 
 3. Seperatio
      Modstridende elementer i os kommer op til overfladen. Vi bliver opmærksomme på den frustration vi projecierede ud mod andre, og får dybere forståelse af den. Vi sporer frustrationen tilbage til en indre konflikt. 
