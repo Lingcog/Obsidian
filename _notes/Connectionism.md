@@ -1,22 +1,23 @@
 # Connectionism
-[[teorier]]
+[[SLA - teorier]]
 
 [[Kaos teori og andetsprogstilegnelse]]
+
 [[Construction Grammar]]
 
 
 En teori der siger at menneskets cognition har sit ophav i en bestemt computationel model, kaldet neurale netværk. ([[Shirai 2019]] side 2) 
 
-Man tager ikke udgangspunkt i at der findes en sprogmodul, men i en kognitiv funktionel og brugerorienteret lingvistik. 
+Man tager ikke udgangspunkt i at der findes et sprogmodul, men i en kognitiv funktionel og brugerorienteret lingvistik. 
 
 Chomsky's antagelser om et symbolsk regelsystem forkastes til fordel for den antagelse at det symbolske regelsystem er en manifestation af de neurale  netværks aktiveringsmønstre. ([[Shirai 2019]] side 9)
 
 Connectionisme tager højde for gråzonerne i grammatikken ved at bruge prototypeteori i polysemi og kategorisering. ([[Shirai 2019]] side 9)
 
 #### Simulationer
-Elmans simulation har vist at få input (enkle netværk) kan udvikle sig til komplekse sætninger. Det kan forklare hvorfor børn kan danne komplekse sætninger ud fra et begrænset input. [[Shirai 2019]] side 9. Det ligger også i forlængelse af dynamiske systemers teori om at enkle systemer kan gennem selvorganisering kam blive mere komplekse.
+Elmans simulation har vist at få input (enkle netværk) kan udvikle sig til komplekse sætninger. Det kan forklare hvorfor børn kan danne komplekse sætninger ud fra et begrænset input. [[Shirai 2019]] side 9. Det ligger også i forlængelse af dynamiske systemers teori om at enkle systemer kan gennem selvorganisering blive mere komplekse.
 
-Connectionisme synes at være en tilbagevending til behaviorisme - tanken om stimulus og respons (kritik fra Steven Pinker). Det synes at være tilfældet, bortset fra at connectionisme mener at man kan få indblik i den "sorte boks". Connectionisme er altså opfattet af indre modeller af viden. [[Shirai 2019]] side 15.
+Connectionisme synes at være en tilbagevending til behaviorisme - tanken om stimulus og respons (kritik fra Steven Pinker). Det synes at være tilfældet, bortset fra at connectionisme mener at man kan få indblik i den "sorte boks". Connectionisme er altså forbundet med indre modeller af viden. [[Shirai 2019]] side 15.
 
 #### Deep Learning
 - [ ] [[convolutional neural networks]] (Genkendelse af ansigter, figurerer i normale fotos)
@@ -25,7 +26,7 @@ Connectionisme synes at være en tilbagevending til behaviorisme - tanken om sti
 - Frontfigurer - Nick Ellis ([[Shirai 2019]] side 21) [[Ellis & Wulff 2019]]
 
 #### SLA og input
-Siden [[Krashen 1983]] har der været lagt stor vægt på input som en væsentlig faktor i sprogtilegnelsen. Krashen mente at forståeligt input var af allerstørste vigtighed, og var langt vigtigere end output. Han lagde os også vægt på implicit fremfor explicit læring. Hvorfor er der forskel på om man lærer noget gennem implicit læring? Det har at gøre med nødvendigheden for output. [[Shirai 2019]] side 22. Hvad er drivkraften bag sprogtilegnelse via forståeligt input? Connectionismen peger på et fænomen man kan kalde 'forventningsgrammatik'. Ved at lytte og forstå sprog får vi en statistisk fornemmelse for hvad der sandsynligt følger efter noget andet i en ytring. Man lærer ubevist at forudsige det. Evidensen er Elmans enkle system, som er blevet anvendt på at finde langdistance-kongruens mellem subjekt og verbum i en sætning. [[Shirai 2019]] side 23.
+Siden [[Krashen 1983]] har der været lagt stor vægt på input som en væsentlig faktor i sprogtilegnelsen. Krashen mente at forståeligt input var af allerstørste vigtighed, og var langt vigtigere end output. Han lagde os også vægt på implicit fremfor explicit læring. Hvorfor er der forskel på om man lærer noget gennem implicit læring? Det har at gøre med nødvendigheden for output. [[Shirai 2019]] side 22. Hvad er drivkraften bag sprogtilegnelse via forståeligt input? Connectionismen peger på et fænomen man kan kalde 'forventningsgrammatik'. Ved at lytte til og forstå sprog får vi en statistisk fornemmelse for hvad der sandsynligt følger efter noget andet i en ytring. Man lærer ubevist at forudsige det. Evidensen er Elmans enkle system, som er blevet anvendt på at finde langdistance-kongruens mellem subjekt og verbum i en sætning. [[Shirai 2019]] side 23.
 
 #### Hvorfor er input og interaktion ikke tilstrækkeligt i SLA?
 1. [[L1 transfer]]

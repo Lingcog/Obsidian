@@ -1,7 +1,7 @@
 Translanguaging
 
 [[Sprogindlæring]]
-[[teorier]]
+[[SLA - teorier]]
 [[Pædagogik]]
 
 Lad kursister bruge deres sprog som løftestang til at udtrykke tanker på L2
@@ -23,18 +23,16 @@ Igennem hele undervisningen er der en understrøm af forskellige sprog, og den s
 3. Shifts (spontane valg)
 
 
-Fornem the corriente som strømmer gennem klassen. Og brug af den. Ignorer den ikke 
-
 **Anskuelseseksempel** 
 Forestil dig at du skulle fortælle om din morgen, hvad du fik at spise og lignende, men uden at bruge bogstavet N, hverken i onset eller coda. - mon ikke det ville føles som et besværligt filter.
+
+
 
 
 **Praktisk anvendelse** 
 1. Lad eleverne lære dig om deres sprog - find fællestræk og bed dem om at definere forskelle og ligheder mellem ord 
 2. Brug eventuelt en oversættelsesapp
-3. Få eleverne til at tænke først, skrive ned på deres sprog, dele det med sidemanden på stærkeste sprog og til sidst udtrykke på målsproget (pyramidemetoden)
-4. (Skriveopgave) Lad dem først skrive på deres eget modersmål derefter på målsproget. Husk Askepot.
 
 
-
+Te
 

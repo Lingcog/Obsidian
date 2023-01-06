@@ -9,15 +9,15 @@ Semiotik er kort sagt et kritisk blik på fortolkningen af mening
 Illustration - det (de tegn) der formidler vores opfattelse af virkeligheden. 
 1. Vi skal åbne en dør. Vi referer til en den sproglige kategori af døre på baggrund af brugen af dem. Vi referer til det sociale system - er vi berigtiget til at åbne den. Hvad nu hvis nogen smækker døren i hovedet - et budskab til os. 
 
-Meningen findes ikke i verden - det ef en fotolknng af vores referencer - semiotik hjælper os til at se strukturen og det vi tager for givet. 
+Meningen findes ikke i verden - det er en fotolknng af vores referencer - semiotik hjælper os til at se strukturen og det vi tager for givet. 
 
 **Tegnenes modeller** 
-Alt kan fortolkes som tegn - det er den meningsfulde brug af tegn der er i fokus. 
+Alt kan fortolkes som tegn - det er den meningsfulde brug af tegn, der er i fokus. 
 Der er to dimensioner 
 1. Sense Begrebslig mening - designation- betydning i sindet
 2. Reference (denotation)- noget ydre i verden (ting og abstrakte ting) - jeg er semiotiker 
 
-**Sussore tegnmodel** (2 elementer)
+**Sussoures tegnmodel** (2 elementer)
 Et begrebsbilldede relateres til et akustisk udtryk - lyden har ikke noget indhold i dig selv? 
 Intet tegn bærer nogen mening i sig selv -kun i relation til andre - og det fælles sprogsamfund (langue)
 

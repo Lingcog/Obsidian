@@ -1,3 +1,3 @@
 # Processability Theory
 
-[[teorier]]
+[[SLA - teorier]]

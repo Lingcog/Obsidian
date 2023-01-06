@@ -1,5 +1,10 @@
 Dewilde & Igland (2015): No problem janem: En transspråklig tilnærming til flerspråklige elevers skriving
 
+[[SLA - teorier]]
+
+[[Translanguaging]]
+
+
 Er transproglig det samme som at tale i koder? 
 
 ### Teoretisk grundlag i artiklen
@@ -35,7 +40,8 @@ Fire grundopfattelser
      Lægger vægt på at elever for sans for forskellige typer sprog der knytter sig til magt og dominans. Støtter eleven med at tage kontrol over deres eget liv
 
 5.  Transsproglig perspektiv
-    Flytter opmærksomheden fra sprogfærdighed og sproget som kode til en sociokukturel handlingsorientering
+    Flytter opmærksomheden fra sprogfærdighed og sproget som kode til en 
+    sociokukturel handlingsorientering
 
 
 Det er en kunst at rette elevtekster (ikke rette på autopilot)

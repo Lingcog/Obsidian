@@ -1,6 +1,8 @@
 
 Cots M. og Garrett P (2018), Language Awareness - Opening Up the Field of Study*, *The Routledge Handbook of language awareness* (eds), side 1-19, Routlegde, New York.
 
+[[SLA - teorier]]
+
 [[Bibliografi]]
 
 [[Language awareness]]

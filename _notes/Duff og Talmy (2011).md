@@ -2,6 +2,8 @@
 
 [[Interaktion og økologisk tilgang]]
 
+[[SLA - teorier]]
+
 En beskrivelse af undersøgelsesmetode 
 
 En beskrivelse af teoretiske grundlag 
@@ -36,9 +38,7 @@ Kompleksitets metoden (s. 149)
 
 Den nævnes bare kort, mest som en filosofisk retning snarere end et lingvistisk forskningsområde. 
 
-  
-
-Sociokulturelt, kognitivt og økologiske tilgange(s.149-150)
+  Sociokulturelt, kognitivt og økologiske tilgange(s.149-150)
 
 Fokuserer på at der integreres tasks i undervisningen. Det kan både være kulturelle og en indarbejdning af interaktions rutiner til at skabe læring og mening. Underviseren spiller en aktiv rolle i at guide lørneren. Der Lan bruges stilladsering. Der er i forskningen stor fokus på både eksperter (undervisere og erfarne lørnere) og så dem der skal introduceres til L2.
 

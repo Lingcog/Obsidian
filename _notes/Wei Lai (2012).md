@@ -1,11 +1,12 @@
-[[Wei Lai, CONCEPT-BASED FOREIGN LANGUAGE PEDAGOGY: TEACHING THE CHINESE TEMPORAL SYSTEM]], afhandling fra
+Wei Lai, CONCEPT-BASED FOREIGN LANGUAGE PEDAGOGY: TEACHING THE CHINESE TEMPORAL SYSTEM, afhandling fra
+
+[[Bachelor-2023]]
+
 
 **Generelt** 
 Et studie der søger at undersøge efffekten af [[Systemic Theoretical Instruction]] i forbindelse med undervisning i kinesisk verbalsystem.
 
-Grundlag for studiet er denne afhandling af Negueruela, E. (2003). Systemic-Theoretical Instruction and L2 Dvelopment: A Sociocultural Approach to Teaching-Learning and Researching L2 Learning.
-(Unpublished Doctoral Dissertation: The Pennsylvania State University,
-Unviersity Park, PA.)
+Grundlag for studiet er denne afhandling af [[Negueruela, E. (2003)]]
 
 Et studie der viser 
 Kabanova, O. Ya. 1985 The teaching of Foreign Language. Instructional Science.14,

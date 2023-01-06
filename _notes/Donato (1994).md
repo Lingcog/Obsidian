@@ -1,4 +1,6 @@
-....
+[[SLA - teorier]]
+
+[[den sociokulturelle teori]]
 
 
 Den klassiske metafor med en afsender og modtager af et budskab, er mangelfuld når det kommer til at beskrive det komplicerede samspil mellem to der taler sammen. Der er nemlig også en social ramme. 

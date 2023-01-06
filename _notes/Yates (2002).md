@@ -1,0 +1,1 @@
+Frances Yates, (2002), Giordano Bruno and the Hermetic Tradition, Taylor and Francis Group.

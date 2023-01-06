@@ -2,6 +2,8 @@ Dewaele, J. (2009), Perception. attitiude and motivation,
 
 [[Motivation]]
 
+[[SLA - teorier]]
+
 
 Der skelnes i undersøgelser mellem etik og emic. Etik er en undersøgelse set fra forskerens synspunkt som benytter et analytisk sprog, der gør det lettere at sammenligne undersøgelser. Han kommer med konklusioner ud fra hvordan han tolker data. Emic (emisk) er informantens synspunkt, hvordan han tolker sin egen situation og dermed også sine egne motiver og indstiling, og det gør han med sine egne subjektive formuleringer
 

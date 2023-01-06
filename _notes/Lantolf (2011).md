@@ -1,5 +1,8 @@
 2011): The Sociocultural approach to second language acquisition. I Atkinson (eds.), _Alternative approaches to second language acquisition_.
 
+[[SLA - teorier]]
+
+
 [[den sociokulturelle teori]]
 
 **Den sociokukturelle teori** 

@@ -1,4 +1,4 @@
-[[teorier]]
+[[SLA - teorier]]
 Stor lighed med lydbogen [Uncommon sense teaching]() af Barb Oakly
 
 Der lægges vægt på deklarativ og procedural hukommelse 

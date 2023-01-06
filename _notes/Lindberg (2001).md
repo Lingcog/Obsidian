@@ -1,6 +1,8 @@
 Inger Lindberg, Interaktion med fokus på form, besyv, nr 8 januar 2001, Dansk Magisterforening.
 
+[[den sociokulturelle teori]]
 
+[[SLA - teorier]]
 
 **Termer** 
 
@@ -15,13 +17,13 @@ Metasproglige diskussioner
 
 Sociokognitive konflikter med sprogudviklende effekt 
 
-At tænke højt kan på andetsprog kan fremme selvregulering 
+At tænke højt på andetsprog kan fremme selvregulering 
 
 Lantolf (1985)
 Har tilpasset Vygotskis teorier til andetsprogsundervisningen
 
 **Undersøgelsens formål** 
-1. Gennem kollaborativ interaktion (KI) og sproglige forhandlinger kan drage nyttearbejde hinandens ressourcer og sprogudviklende samtale støtte 
+1. Gennem kollaborativ interaktion (KI) og sproglige forhandlinger kan drage nytte sf hinandens ressourcer og give hinanden. sprogudviklende samtale støtte 
 2. Data kan give viden om hvordan indlæring foregår og indlæreres sprogudviklende potentiale 
 
 Følgende spørgsmål 
@@ -48,7 +50,8 @@ Fordele ved den kollaborative interaktion er med til at rette indlærerens opmæ
 
 Sproget genskabes af hver enkelt indlærer, der ud fra et broget sprogligt råmateriale opbygger sit eget mentale billede af det nye sprog.
 
-Det er ikke en lineær process. Det er en process hvor orden og kaos afløser hinanden, men efterhånden danner der sig en sproglig grund
+Det er ikke en lineær process. Det er en process hvor orden og kaos afløser hinanden, men efterhånden danner der sig en sproglig grundform
+
 
 [[Kaos teori og andetsprogstilegnelse]]
 

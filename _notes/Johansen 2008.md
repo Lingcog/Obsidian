@@ -7,6 +7,9 @@ Johansen, H. (2008). Inversjon i norsk innlærerspråk. _NOA norsk som andrespr�
 [[Bibliografi]]
 [[Intersprog]]
 
+[[SLA - teorier]]
+
+
 ## Oversigt
 
 1. Hvad er artiklens formål?

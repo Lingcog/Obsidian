@@ -2,6 +2,9 @@ Hvenekilde (1996), Ulike syn på leseopplæring, *Alfa og Omega*,
 
 [[Læsning og skrivning]]
 
+[[Skrivning og SLA]]
+
+
 **Ikke alfabetiserede voksne (hvad gør vi med dem?)**
 
 Sammenligner denne gruppe med børn. Tidligere sammenligning med L1 til L2 (det passer ikke)

@@ -1,5 +1,10 @@
 #### Benedetta Bassetti (2009), Orthographic input and second language phonology, multilingual matters.
 
+[[SLA - teorier]]
+
+[[Skrivning og SLA]]
+
+
 Skriftsproget giver en mulighed for visuelt at beskæftige sig med sproget 
 Hvordan skriftsproget påvirker udtalen.
 
@@ -16,5 +21,5 @@ Eksempel - japanske indlærere af engelsk (forskel på l og r)
 #### Negative effekter af det ortografiske billede på forståelse af fonemer
 Eksempel - stavelses udtalelser (udtaler alle bogstaver) - eller udelader bogstaver - eller erstatte fonemer med andre 
 
-#### Praktisk - **Begynde med mundtlighedem først og så vente med at præsentere ortografien** 
+#### Praktisk - **Begynde med mundtligheden først og så vente med at præsentere ortografien** 
 
