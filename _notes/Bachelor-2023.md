@@ -28,6 +28,7 @@
 - Beskrivelse af design og resultater fra tidligere undersøgelser. Finde kritikpunkter og pege på hvordan min undersøgelse tager højde for det, eller hvordan min undersøgelse vil fokusere på noget ingen tidligere har gjort.
 
 - [[Wei Lai (2012)]]
+- [[Wui (2020)]]
 - [[Zhang (2014)]]
 - [[Lee (2012)]]
 - [[Negueruela, E. (2003)]]

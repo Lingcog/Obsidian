@@ -7,5 +7,5 @@ Filosofiske grundlag
 - Kirken bliver skræmt. 
 
 Andre forgreninger
-- [[Den alkymiske proces]]
+- [[Alkymi]]
 - 
