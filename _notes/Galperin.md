@@ -12,3 +12,7 @@ Ved indlæringen indgår 2 elementer
     Styrken ved denne undervisningsmetode er at indlærer lærer de fundamentale dele af emnet lige fra starten. De teoretiske begreber bliver forklaret på en systematisk måde.
 2. Psykologiske processer med læreprocesser
     Tidligere fokus på det statiske vidensniveau, men ikke på selve indlæringsprocessen 
+
+
+Biografi - [[Engeness (2021)]]
+1. Kommer i kontakt med Vygotski, imteresserer sig ligesom Vygotski for dualisme (det karteniske skel mellem krop og sind) 

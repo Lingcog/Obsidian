@@ -5,7 +5,7 @@
 - Formål
      - Det kan ofte tage en rum tid førend en teoretisk tilgang til grammatik finder vej ind i et klasseværelse og bliver iklædt pædagiske klæder. Min undersøgelse tager udgangspunkt i sprogpædagogik.
     1. Galperins sociokulturelle tanker om læring i sin [[Systemic Theoretical Instruction]] (forkortet STI) kan måske combineres med en kognitiv forståelse af grammatik.
-    2. Galperin peger på den bro der går fra samtale (læringens sociale element) og til den mentale del (den kognitive side). Det kan beskrives som et samspil mellem deltagelse og tilegnelse. [[Arievitch og Haenen (2005)]].
+    2. [[Galperin]] peger på den bro der går fra samtale (læringens sociale element) og til den mentale del (den kognitive side). Det kan beskrives som et samspil mellem deltagelse og tilegnelse. [[Arievitch og Haenen (2005)]].
     3. Jeg ønsker altså at kombinere to teorier i sprogundervisningen, og jeg vil fokusere på indlæringen af datids- og førnutidsformer. Jeg vil tage udgangspunkt i en kognitiv grammatisk forståelse af datids- og førnutidsformer, og gøre brug af STI som sprogpædagoisk redskab.
     4. Jeg vil Undersøge brugen af [[SCOBA]] effekt på undervisning. Jeg har selv tidligere gjort brug af SCOBA i min undervisning, dog ikke i evidensbaseret undersøgelser.  - [[Erfaringer med SCOBA]]
 
