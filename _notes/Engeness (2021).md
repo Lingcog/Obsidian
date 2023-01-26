@@ -23,3 +23,9 @@ Bog om Galperins levned
 2. I Siberien fortsætter Galperin sine undersøgelse af hvordan man bedst kan hjælpe krigsveteraner. Hans undersøgelser viser at målrettet og meningsfuld brug af redskaber har en stor effekt.
 
 **Yderligere forskning i menneskets bevidsthed i 1950'erne.**
+
+
+**En detaljeret gennemgang af [[Systemic Theoretical Instruction]]** 
+1. Chapter 1, The Development of Mental Actions and the Orienting Basis of Actions
+     - Grundindgredienser, brug af billeder.
+     - If you would like to examine how students learn in a planned activity, you need to describe *in detail the conditions and the way the activity should be carried out* and identify its expected outcome.
