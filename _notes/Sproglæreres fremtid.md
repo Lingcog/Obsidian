@@ -1,9 +1,9 @@
-Jeg stiftede for første gang i dag bekendtskab med den meget omtalte chatrobot ChatGPT og stillede nogle spørgsmål om grammatik og sproglæreres fremtid. (Sidste to spørgsmål)
+Jeg stiftede for første gang i dag, den 26. januar 2023, bekendtskab med den meget omtalte chatrobot ChatGPT og stillede nogle spørgsmål om grammatik og sproglæreres fremtid. (Sidste to spørgsmål)
 
 [[Lingvistisk univers/den sociokulturelle teori]]
 
 **Spørgsmål** 
-*Og hvad særligt den dansk førnutidsform? Kan man illustrere den visuelt?*
+*Hvad særligt er der med den danske førnutidsform? Kan man illustrere den visuelt?*
 
 **Svar**
 I dansk kan førnutidsformen typisk signaleres ved brug af -ede/-te endelser på verberne. For eksempel, "han gik" i stedet for "han går" signalerer at handlingen "at gå" er afsluttet i fortiden.
@@ -11,13 +11,13 @@ I dansk kan førnutidsformen typisk signaleres ved brug af -ede/-te endelser på
 En visuel illustration af førnutidsformen kan være en linje, der starter i fortiden og slutter i fortiden, for at symbolisere at handlingen eller begivenheden er afsluttet. En figur, der går i fortiden, kan også være en anden visuel illustration.
 
 **Spørgsmål (kommentar) :)**
-*Du mangler detaljen med førnutid at den relaterer sig til nutiden, og ikke nødvendigvis er helt afsluttet. Ikke sandt?*
+*Du mangler detaljen med at førnutid relaterer sig til nutiden, og ikke nødvendigvis er helt afsluttet. Ikke sandt?*
 
 **Svar**
 Ja, du har ret. Jeg undskylder for det. Førnutidsformen i dansk refererer ikke kun til handlinger eller begivenheder, der er helt afsluttede i fortiden, men også til handlinger eller begivenheder, der har fundet sted i fortiden, men som stadig har en relation til nutiden. Det kan være en handling eller begivenhed der er startet i fortiden og stadig er påvirker nuværende situation eller en handling eller begivenhed som har en konsekvens i nuværende situation.
 
 **Spørgsmål** 
-*Du giver imponerende lingvistiske svar. Vil du en dag overtage sproglæreres funktion?*
+*Du giver gode lingvistiske svar. Vil du en dag overtage sproglærernes funktion?*
 
 **Svar**
 Jeg er en avanceret teknologi, der er trænet på store mængder tekst og kan give svar på spørgsmål om sprog og andre emner. Men jeg er ikke i stand til at aflægge prøver eller give personlig feedback, som en menneskelig sproglærer kan. Min rolle er at assistere og supplementere undervisningen, ikke at erstatte den.
