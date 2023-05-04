@@ -22,6 +22,7 @@ Spørgsmål - til en test skal passe med [[Blooms taxonomi]] - der skal være la
 **Metode**r
 
 **Braindumps**
+0. Ved undervisnnngens start - to opgaver - lav denne sætning om til .... (ikke kigge i notatbøger)
 1. Stop undervisningen 
 2. Bed kursisterne om at skrive ned så meget de husker (måske stikord)
 3. Del det med andre 
