@@ -1,6 +1,12 @@
 
 [[UBD]]
 
+[[Diskursanalyse som teori og metode]]
+
+[[Kritisk diskursanalyse]]
+
+
+
 Dette er et eksamensprojekt i faget kultur og sprog 
 
 

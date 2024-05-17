@@ -1,3 +1,7 @@
+[[Læsefærdighed]]
+
+[[Læsning]]
+
 Literacy - at man kan bruge forskellige medier (skrift, symboler og diagrammer)
 
 Terminologi 

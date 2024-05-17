@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4d13df41a9fbca44","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Gestus"},
+		{"id":"e8cc1446ba4dc19f","x":-125,"y":-30,"width":250,"height":60,"color":"3","type":"text","text":"Gestus"},
+		{"id":"fe18c66b5a03c1ef","x":0,"y":-180,"width":250,"height":60,"color":"5","type":"text","text":"Teorier"},
+		{"id":"011cdb9c32e464c8","x":300,"y":-680,"width":250,"height":261,"color":"5","type":"text","text":"Information-packaging theory\n\nKita S. 2000. How representational gestures help speaking. In Language and Gesture, ed. D McNeill, pp. 162– 85. Cambridge, UK: Cambridge Univ. Press"},
+		{"id":"e6ba5bef2b1e136e","x":320,"y":-353,"width":385,"height":233,"color":"5","type":"text","text":"lexical gesture process model\n\nKrauss RM, Chen Y, Gottesman R. 2000. Lexical gestures and lexical access: a process model. In Language\n\nand Gesture, ed. D McNeill, pp. 261–83. Cambridge, UK: Cambridge Univ. Press\n"},
+		{"id":"83b3a7bb0ed1c8c7","x":400,"y":-40,"width":250,"height":320,"color":"5","type":"text","text":"The interface model\n\n\nKita S, O ̈ zyu ̈ rek A. 2003. What does cross-linguistic variation in semantic coordination of speech and gesture reveal? Evidence for an interface representation of spatial thinking and speaking. J. Mem. Lang. 48:16–32"},
+		{"id":"dbee8980ba115ad1","x":740,"y":-40,"width":250,"height":280,"color":"5","type":"text","text":"Gestus styres af en aktionsgenerator, og tale af en budskabsgenerator. Der er bidirektional forbindelse mellem dem. Støttes af eksempler på at gestus motiveres af et \nsprogs syntaks."},
+		{"id":"0a1b6bd4950aefe0","x":1060,"y":-60,"width":250,"height":190,"color":"5","type":"text","text":"Thinking for speaking - satellitsprog og path sprog. \n\nJævnfør undersøgelse om gestus og disse tank\ner"}
+	],
+	"edges":[
+		{"id":"929f4db3d1081f11","fromNode":"e8cc1446ba4dc19f","fromSide":"left","toNode":"fe18c66b5a03c1ef","toSide":"left"}
+	]
+}

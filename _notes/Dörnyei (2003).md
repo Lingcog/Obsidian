@@ -4,6 +4,15 @@ Dörnyei (2003) Attitudes, Orientations, and Motivations in Language Learning
 
   [[Motivation]]
 
+En ungarer der interesserer sig for hvad hvornår en elev får lyst til at samtale på målsproget 
+1. Hvordan de oplever sitiuatiionen
+2. Hvordan giver vi dem selvtillid, og give dem lyst til at lære mere
+3. Mindske nervøsitet 
+4. Danne et solidt grundlag 
+
+At være villig til at strække sig i sproget 
+
+
 Artiklens formål: 
 
 1.  Give overblik over moderne forskning indenfor motivation og L2.

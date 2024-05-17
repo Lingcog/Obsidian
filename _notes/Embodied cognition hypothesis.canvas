@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"Embodied Cognition Hypothesis og sprogindlæring ","id":"a00659b670f114ef","x":-125,"y":-234,"width":385,"height":154,"color":"1"},
+		{"type":"text","text":"Der er en taxanomi inden for embodied læring\n1.\n2. \n3. \n4. Laveste trin når en elev blot observerer en lærer [[Sullivan (2018)]]","id":"0ed95543e6929412","x":-70,"y":-1080,"width":295,"height":517,"color":"3"},
+		{"type":"text","text":"Indlæring af grammatik styrkes gennem kropslig bevidsthed ","id":"a5206161f10b2a52","x":520,"y":-445,"width":270,"height":90,"color":"6"},
+		{"id":"ef996d492ed6497f","type":"text","text":"Hukommelse styrkes ved indlæring gennem kroppen","x":270,"y":160,"width":250,"height":100,"color":"5"},
+		{"type":"text","text":"Fonologisk bevidsthed styrkes gennem brug af kroppen (gestus)\n[[Baills (2021)]]\n","id":"dc6299b6cd9a6404","x":-760,"y":-563,"width":277,"height":153,"color":"5"},
+		{"id":"9c34207729371b9e","x":470,"y":-80,"width":370,"height":171,"color":"1","type":"text","text":"Fremtidigt område for psykolingvistik "},
+		{"id":"772e5724a669f3bb","x":1000,"y":-95,"width":318,"height":101,"color":"1","type":"text","text":"Se [[Garnham, Gerrod & Sanford 2006]]"}
+	],
+	"edges":[
+		{"id":"87f6d2de25b6f997","fromNode":"a00659b670f114ef","fromSide":"left","toNode":"dc6299b6cd9a6404","toSide":"right"},
+		{"id":"fb91c914cf0b3709","fromNode":"a00659b670f114ef","fromSide":"right","toNode":"a5206161f10b2a52","toSide":"left"},
+		{"id":"aab7dd4497f92f79","fromNode":"a00659b670f114ef","fromSide":"bottom","toNode":"ef996d492ed6497f","toSide":"left"},
+		{"id":"dd573eab5b955500","fromNode":"a00659b670f114ef","fromSide":"right","toNode":"9c34207729371b9e","toSide":"left"},
+		{"id":"569b27f26c9201cd","fromNode":"9c34207729371b9e","fromSide":"right","toNode":"772e5724a669f3bb","toSide":"left"}
+	]
+}

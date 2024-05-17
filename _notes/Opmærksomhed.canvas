@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"cd9537de838e111c","type":"text","text":"[[Opmærksomhed]] ","x":-125,"y":-234,"width":250,"height":60},
+		{"id":"0e5279411c2b4c74","x":60,"y":-440,"width":250,"height":60,"color":"#e78f13","type":"text","text":"Teorier for opmærksomhed i tilegnelsen af L2"},
+		{"id":"cca4c7f892c34ae7","x":340,"y":-580,"width":250,"height":220,"color":"3","type":"text","text":"Schmidt,  R.  (1990).  The  role  of  consciousness  in  second  language\nlearning. Applied Linguistics, 11, 129–158.\n"}
+	],
+	"edges":[
+		{"id":"d76864e76c6b7c6b","fromNode":"cd9537de838e111c","fromSide":"top","toNode":"0e5279411c2b4c74","toSide":"left"}
+	]
+}

@@ -5,6 +5,7 @@ Dewilde & Igland (2015): No problem janem: En transspråklig tilnærming til fle
 [[Translanguaging]]
 
 
+
 Er transproglig det samme som at tale i koder? 
 
 ### Teoretisk grundlag i artiklen

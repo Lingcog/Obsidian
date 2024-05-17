@@ -1,3 +1,5 @@
+[[Semiotik 3]]
+
 Semiotics - the basics, Daniel Chandler, 2022. 
 
 Af særlig interesse inden for kulturstudier

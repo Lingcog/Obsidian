@@ -1,3 +1,8 @@
+[[Diskursanalyse som teori og metode]]
+
+[[Kultursyn der hindrer eller fremmer integrationen på arbejdspladsen]]
+
+
 Oplysninger taget fra 
 
 [[Jørgensen og Phillips, *Diskursanalyse - som teori og metode*, ]]
