@@ -10,7 +10,7 @@ Det her er min digitale have, hvor du kan følge mine ideer i deres udvikling fr
 
 ### Fokuspunkter
 
-1.  Jeg har nu været ansat som underviser på  flere sprogskoler i de sidste 3 år. Jeg underviser i dansk som andetsprog på Studieskolen. Derfor er jeg meget optaget af pædagogik i et klasseværelse.  (Se mine tanker i linket[[Pædagogiske ideer]]) og selve personligheden som lærer. (Se linket [[Lærergerning]]) Jeg er i gang med to spændende bøger om undervisning - [[Brookfield (2015)]] og [[Brown (2014)]]
+1.  Jeg har nu været ansat som underviser på  flere sprogskoler i de sidste 3 år. Jeg underviser i dansk som andetsprog på Studieskolen. Derfor er jeg meget optaget af pædagogik i et klasseværelse.  (Se mine tanker i linket [[Pædagogiske ideer]]) og selve personligheden som lærer. (Se linket [[Lærergerning]]) Jeg er i gang med to spændende bøger om undervisning - [[Brookfield (2015)]] og [[Brown (2014)]]
 2. I den sidste tid har jeg undersøgt emnet [[Recaste]] og [[Korrigerende feedback]].
 3. I min undervisning af skandinavere er begyndt at bruge principperne for sprogforandring i min udtaleundervisning - [[Dansk for skandinavere]] - [[Allan Karker (2022)]]
 4.  I mit arbejde med at undervise i grammatik har jeg gjort mig overvejelser, om man i højere grad kan benytte sig af diagrammer og farver til at redegøre for mønstrene - [[SCOBA]] og visualisere elevers tænkning [[Making-thinking-visible]] 
